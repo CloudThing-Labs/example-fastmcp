@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sqlite-crud": {
+      "command": "uv",
+      "args": ["run", "python", "server.py"]
+    }
+  }
+}

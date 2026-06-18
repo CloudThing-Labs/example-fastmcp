@@ -1,0 +1,4 @@
+.venv
+.claude
+data.db
+uv.lock
